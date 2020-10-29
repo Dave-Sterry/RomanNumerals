@@ -1,0 +1,2 @@
+//take number parseInt- 
+
