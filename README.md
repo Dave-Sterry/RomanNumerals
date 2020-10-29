@@ -1,11 +1,11 @@
 # TITLE 
 <img src="https://github.com/Dave-Sterry.png" width="200px" height="auto">
 
-### A website by David Sterry updated on -----
+### A website by David Sterry and Bess Campbell updated on -----
 
 ## Description
 
-_Insert Descrption_
+_This site will take numbers and return numerals_
 
 The site can be viewed [here](insert gh pages link)
 
@@ -18,7 +18,7 @@ The site can be viewed [here](insert gh pages link)
 5. Open the _index.html_ file to view the site locally
 
 ## Known Bugs
-There are no known bugs at this time
+This website is all bugs. We couldn't get it to work. 
 
 ## Tests
 Describe= isRomanNumeral
